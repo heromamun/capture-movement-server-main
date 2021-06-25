@@ -9,10 +9,11 @@ https://video-edit-mania-001.web.app
 ### `Assignment 11`
 ### Live Site Link:
 https://video-edit-mania-001.web.app
-### Client Repo Link:
-https://github.com/iqbalhossain15792303/capture--movement-client
-### Server Repo Link:
-https://github.com/iqbalhossain15792303/capture-movement-server
+Client Repo Link:
+https://github.com/heromamun/capture--movement-client-main
+
+Server Repo Link:
+https://github.com/heromamun/capture-movement-server-main
 
 
 ### Extra Feature(s):
